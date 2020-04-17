@@ -10,5 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "dashbord":{
+        "totalBooking":10,
+        "atOrigin":20,
+        "inTransit":30,
+        "deliverd":40,
+        "podUpdated":50,
+        "onTime":60}
 }
